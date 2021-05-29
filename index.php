@@ -1,3 +1,4 @@
+<?php
 function gcklr_upload_attachment($file)
 {
     $upload_dir = wp_upload_dir();
